@@ -3,7 +3,6 @@ import './App.css';
 import generator from './helpers/generator';
 
 class App extends React.Component {
-  // console.log(typeof path);
   constructor(props) {
     super(props);
     const initState = {
